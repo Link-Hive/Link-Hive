@@ -9,6 +9,7 @@
 
 
 - 🌈 Contribution guidelines - how can the community get involved?
-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+- 👩‍💻 Useful resources - From this link you will head up to our documentation on github and on internet. 
+- For github 🎫 [Github](https://www.youtube.com/watch?v=xm3YgoEiEDc) On internet ⚽ [Linkhive.Inc](https://linkhive-online.vercel.app)
 - 🍿 Fun facts - We use tor safe network to prevent the cyber attacks
-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- 🧙 For more information please visit on this link, Dev. Version [Linkhive.Inc](https://linkhive-online.vercel.app)
