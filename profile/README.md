@@ -1,4 +1,4 @@
-![Replit Banner](https://user-images.githubusercontent.com/108215633/219278763-6ef6aaee-bcd8-4d4d-8b50-c8ce808fb0b8.png)
+![Linkhive Banner](https://github.com/Link-hive/.github/assets/108215633/bc248648-a9ce-475a-b600-0f9d10dfd5e6)
 
 ## Hello, There 👋
 
